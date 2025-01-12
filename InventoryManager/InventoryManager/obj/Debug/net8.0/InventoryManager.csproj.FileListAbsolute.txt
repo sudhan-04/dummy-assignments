@@ -1,0 +1,30 @@
+F:\C#_Assignments\InventoryManager\InventoryManager\bin\Debug\net8.0\InventoryManager.exe
+F:\C#_Assignments\InventoryManager\InventoryManager\bin\Debug\net8.0\InventoryManager.deps.json
+F:\C#_Assignments\InventoryManager\InventoryManager\bin\Debug\net8.0\InventoryManager.runtimeconfig.json
+F:\C#_Assignments\InventoryManager\InventoryManager\bin\Debug\net8.0\InventoryManager.dll
+F:\C#_Assignments\InventoryManager\InventoryManager\bin\Debug\net8.0\InventoryManager.pdb
+F:\C#_Assignments\InventoryManager\InventoryManager\obj\Debug\net8.0\InventoryManager.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#_Assignments\InventoryManager\InventoryManager\obj\Debug\net8.0\InventoryManager.AssemblyInfoInputs.cache
+F:\C#_Assignments\InventoryManager\InventoryManager\obj\Debug\net8.0\InventoryManager.AssemblyInfo.cs
+F:\C#_Assignments\InventoryManager\InventoryManager\obj\Debug\net8.0\InventoryManager.csproj.CoreCompileInputs.cache
+F:\C#_Assignments\InventoryManager\InventoryManager\obj\Debug\net8.0\InventoryManager.sourcelink.json
+F:\C#_Assignments\InventoryManager\InventoryManager\obj\Debug\net8.0\InventoryManager.dll
+F:\C#_Assignments\InventoryManager\InventoryManager\obj\Debug\net8.0\refint\InventoryManager.dll
+F:\C#_Assignments\InventoryManager\InventoryManager\obj\Debug\net8.0\InventoryManager.pdb
+F:\C#_Assignments\InventoryManager\InventoryManager\obj\Debug\net8.0\InventoryManager.genruntimeconfig.cache
+F:\C#_Assignments\InventoryManager\InventoryManager\obj\Debug\net8.0\ref\InventoryManager.dll
+D:\Dummy C#\FibonacciSeries\InventoryManager\InventoryManager\bin\Debug\net8.0\InventoryManager.exe
+D:\Dummy C#\FibonacciSeries\InventoryManager\InventoryManager\bin\Debug\net8.0\InventoryManager.deps.json
+D:\Dummy C#\FibonacciSeries\InventoryManager\InventoryManager\bin\Debug\net8.0\InventoryManager.runtimeconfig.json
+D:\Dummy C#\FibonacciSeries\InventoryManager\InventoryManager\bin\Debug\net8.0\InventoryManager.dll
+D:\Dummy C#\FibonacciSeries\InventoryManager\InventoryManager\bin\Debug\net8.0\InventoryManager.pdb
+D:\Dummy C#\FibonacciSeries\InventoryManager\InventoryManager\obj\Debug\net8.0\InventoryManager.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dummy C#\FibonacciSeries\InventoryManager\InventoryManager\obj\Debug\net8.0\InventoryManager.AssemblyInfoInputs.cache
+D:\Dummy C#\FibonacciSeries\InventoryManager\InventoryManager\obj\Debug\net8.0\InventoryManager.AssemblyInfo.cs
+D:\Dummy C#\FibonacciSeries\InventoryManager\InventoryManager\obj\Debug\net8.0\InventoryManager.csproj.CoreCompileInputs.cache
+D:\Dummy C#\FibonacciSeries\InventoryManager\InventoryManager\obj\Debug\net8.0\InventoryManager.sourcelink.json
+D:\Dummy C#\FibonacciSeries\InventoryManager\InventoryManager\obj\Debug\net8.0\InventoryManager.dll
+D:\Dummy C#\FibonacciSeries\InventoryManager\InventoryManager\obj\Debug\net8.0\refint\InventoryManager.dll
+D:\Dummy C#\FibonacciSeries\InventoryManager\InventoryManager\obj\Debug\net8.0\InventoryManager.pdb
+D:\Dummy C#\FibonacciSeries\InventoryManager\InventoryManager\obj\Debug\net8.0\InventoryManager.genruntimeconfig.cache
+D:\Dummy C#\FibonacciSeries\InventoryManager\InventoryManager\obj\Debug\net8.0\ref\InventoryManager.dll
