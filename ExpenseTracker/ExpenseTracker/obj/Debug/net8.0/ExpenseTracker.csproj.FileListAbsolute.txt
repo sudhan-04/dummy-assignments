@@ -1,0 +1,66 @@
+F:\C#_Assignments\ExpenseTracker\ExpenseTracker\bin\Debug\net8.0\ExpenseTracker.exe
+F:\C#_Assignments\ExpenseTracker\ExpenseTracker\bin\Debug\net8.0\ExpenseTracker.deps.json
+F:\C#_Assignments\ExpenseTracker\ExpenseTracker\bin\Debug\net8.0\ExpenseTracker.runtimeconfig.json
+F:\C#_Assignments\ExpenseTracker\ExpenseTracker\bin\Debug\net8.0\ExpenseTracker.dll
+F:\C#_Assignments\ExpenseTracker\ExpenseTracker\bin\Debug\net8.0\ExpenseTracker.pdb
+F:\C#_Assignments\ExpenseTracker\ExpenseTracker\obj\Debug\net8.0\ExpenseTracker.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#_Assignments\ExpenseTracker\ExpenseTracker\obj\Debug\net8.0\ExpenseTracker.AssemblyInfoInputs.cache
+F:\C#_Assignments\ExpenseTracker\ExpenseTracker\obj\Debug\net8.0\ExpenseTracker.AssemblyInfo.cs
+F:\C#_Assignments\ExpenseTracker\ExpenseTracker\obj\Debug\net8.0\ExpenseTracker.csproj.CoreCompileInputs.cache
+F:\C#_Assignments\ExpenseTracker\ExpenseTracker\obj\Debug\net8.0\ExpenseTracker.sourcelink.json
+F:\C#_Assignments\ExpenseTracker\ExpenseTracker\obj\Debug\net8.0\ExpenseTracker.dll
+F:\C#_Assignments\ExpenseTracker\ExpenseTracker\obj\Debug\net8.0\refint\ExpenseTracker.dll
+F:\C#_Assignments\ExpenseTracker\ExpenseTracker\obj\Debug\net8.0\ExpenseTracker.pdb
+F:\C#_Assignments\ExpenseTracker\ExpenseTracker\obj\Debug\net8.0\ExpenseTracker.genruntimeconfig.cache
+F:\C#_Assignments\ExpenseTracker\ExpenseTracker\obj\Debug\net8.0\ref\ExpenseTracker.dll
+F:\Dummy Assignments\ExpenseTracker\ExpenseTracker\bin\Debug\net8.0\ExpenseTracker.exe
+F:\Dummy Assignments\ExpenseTracker\ExpenseTracker\bin\Debug\net8.0\ExpenseTracker.deps.json
+F:\Dummy Assignments\ExpenseTracker\ExpenseTracker\bin\Debug\net8.0\ExpenseTracker.runtimeconfig.json
+F:\Dummy Assignments\ExpenseTracker\ExpenseTracker\bin\Debug\net8.0\ExpenseTracker.dll
+F:\Dummy Assignments\ExpenseTracker\ExpenseTracker\bin\Debug\net8.0\ExpenseTracker.pdb
+F:\Dummy Assignments\ExpenseTracker\ExpenseTracker\obj\Debug\net8.0\ExpenseTracker.GeneratedMSBuildEditorConfig.editorconfig
+F:\Dummy Assignments\ExpenseTracker\ExpenseTracker\obj\Debug\net8.0\ExpenseTracker.AssemblyInfoInputs.cache
+F:\Dummy Assignments\ExpenseTracker\ExpenseTracker\obj\Debug\net8.0\ExpenseTracker.AssemblyInfo.cs
+F:\Dummy Assignments\ExpenseTracker\ExpenseTracker\obj\Debug\net8.0\ExpenseTracker.csproj.CoreCompileInputs.cache
+F:\Dummy Assignments\ExpenseTracker\ExpenseTracker\obj\Debug\net8.0\ExpenseTracker.sourcelink.json
+F:\Dummy Assignments\ExpenseTracker\ExpenseTracker\obj\Debug\net8.0\ExpenseTracker.dll
+F:\Dummy Assignments\ExpenseTracker\ExpenseTracker\obj\Debug\net8.0\refint\ExpenseTracker.dll
+F:\Dummy Assignments\ExpenseTracker\ExpenseTracker\obj\Debug\net8.0\ExpenseTracker.pdb
+F:\Dummy Assignments\ExpenseTracker\ExpenseTracker\obj\Debug\net8.0\ExpenseTracker.genruntimeconfig.cache
+F:\Dummy Assignments\ExpenseTracker\ExpenseTracker\obj\Debug\net8.0\ref\ExpenseTracker.dll
+F:\Dummy Assignments\FibonacciSeries\ExpenseTracker\ExpenseTracker\bin\Debug\net8.0\ExpenseTracker.exe
+F:\Dummy Assignments\FibonacciSeries\ExpenseTracker\ExpenseTracker\bin\Debug\net8.0\ExpenseTracker.deps.json
+F:\Dummy Assignments\FibonacciSeries\ExpenseTracker\ExpenseTracker\bin\Debug\net8.0\ExpenseTracker.runtimeconfig.json
+F:\Dummy Assignments\FibonacciSeries\ExpenseTracker\ExpenseTracker\bin\Debug\net8.0\ExpenseTracker.dll
+F:\Dummy Assignments\FibonacciSeries\ExpenseTracker\ExpenseTracker\bin\Debug\net8.0\ExpenseTracker.pdb
+F:\Dummy Assignments\FibonacciSeries\ExpenseTracker\ExpenseTracker\obj\Debug\net8.0\ExpenseTracker.GeneratedMSBuildEditorConfig.editorconfig
+F:\Dummy Assignments\FibonacciSeries\ExpenseTracker\ExpenseTracker\obj\Debug\net8.0\ExpenseTracker.AssemblyInfoInputs.cache
+F:\Dummy Assignments\FibonacciSeries\ExpenseTracker\ExpenseTracker\obj\Debug\net8.0\ExpenseTracker.AssemblyInfo.cs
+F:\Dummy Assignments\FibonacciSeries\ExpenseTracker\ExpenseTracker\obj\Debug\net8.0\ExpenseTracker.csproj.CoreCompileInputs.cache
+F:\Dummy Assignments\FibonacciSeries\ExpenseTracker\ExpenseTracker\obj\Debug\net8.0\ExpenseTracker.sourcelink.json
+F:\Dummy Assignments\FibonacciSeries\ExpenseTracker\ExpenseTracker\obj\Debug\net8.0\ExpenseTracker.dll
+F:\Dummy Assignments\FibonacciSeries\ExpenseTracker\ExpenseTracker\obj\Debug\net8.0\refint\ExpenseTracker.dll
+F:\Dummy Assignments\FibonacciSeries\ExpenseTracker\ExpenseTracker\obj\Debug\net8.0\ExpenseTracker.pdb
+F:\Dummy Assignments\FibonacciSeries\ExpenseTracker\ExpenseTracker\obj\Debug\net8.0\ExpenseTracker.genruntimeconfig.cache
+F:\Dummy Assignments\FibonacciSeries\ExpenseTracker\ExpenseTracker\obj\Debug\net8.0\ref\ExpenseTracker.dll
+F:\Dummy Assignments\FibonacciSeries\ExpenseTracker\ExpenseTracker\obj\Debug\net8.0\ExpenseTracker.csproj.AssemblyReference.cache
+F:\Dummy Assignments\FibonacciSeries\ExpenseTracker\ExpenseTracker\bin\Debug\net8.0\Newtonsoft.Json.dll
+F:\Dummy Assignments\FibonacciSeries\ExpenseTracker\ExpenseTracker\obj\Debug\net8.0\ExpenseT.567C5DF3.Up2Date
+D:\DummyGit\FibonacciSeries\ExpenseTracker\ExpenseTracker\bin\Debug\net8.0\ExpenseTracker.exe
+D:\DummyGit\FibonacciSeries\ExpenseTracker\ExpenseTracker\bin\Debug\net8.0\ExpenseTracker.deps.json
+D:\DummyGit\FibonacciSeries\ExpenseTracker\ExpenseTracker\bin\Debug\net8.0\ExpenseTracker.runtimeconfig.json
+D:\DummyGit\FibonacciSeries\ExpenseTracker\ExpenseTracker\bin\Debug\net8.0\ExpenseTracker.dll
+D:\DummyGit\FibonacciSeries\ExpenseTracker\ExpenseTracker\bin\Debug\net8.0\ExpenseTracker.pdb
+D:\DummyGit\FibonacciSeries\ExpenseTracker\ExpenseTracker\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\DummyGit\FibonacciSeries\ExpenseTracker\ExpenseTracker\obj\Debug\net8.0\ExpenseTracker.csproj.AssemblyReference.cache
+D:\DummyGit\FibonacciSeries\ExpenseTracker\ExpenseTracker\obj\Debug\net8.0\ExpenseTracker.GeneratedMSBuildEditorConfig.editorconfig
+D:\DummyGit\FibonacciSeries\ExpenseTracker\ExpenseTracker\obj\Debug\net8.0\ExpenseTracker.AssemblyInfoInputs.cache
+D:\DummyGit\FibonacciSeries\ExpenseTracker\ExpenseTracker\obj\Debug\net8.0\ExpenseTracker.AssemblyInfo.cs
+D:\DummyGit\FibonacciSeries\ExpenseTracker\ExpenseTracker\obj\Debug\net8.0\ExpenseTracker.csproj.CoreCompileInputs.cache
+D:\DummyGit\FibonacciSeries\ExpenseTracker\ExpenseTracker\obj\Debug\net8.0\ExpenseTracker.sourcelink.json
+D:\DummyGit\FibonacciSeries\ExpenseTracker\ExpenseTracker\obj\Debug\net8.0\ExpenseT.567C5DF3.Up2Date
+D:\DummyGit\FibonacciSeries\ExpenseTracker\ExpenseTracker\obj\Debug\net8.0\ExpenseTracker.dll
+D:\DummyGit\FibonacciSeries\ExpenseTracker\ExpenseTracker\obj\Debug\net8.0\refint\ExpenseTracker.dll
+D:\DummyGit\FibonacciSeries\ExpenseTracker\ExpenseTracker\obj\Debug\net8.0\ExpenseTracker.pdb
+D:\DummyGit\FibonacciSeries\ExpenseTracker\ExpenseTracker\obj\Debug\net8.0\ExpenseTracker.genruntimeconfig.cache
+D:\DummyGit\FibonacciSeries\ExpenseTracker\ExpenseTracker\obj\Debug\net8.0\ref\ExpenseTracker.dll
